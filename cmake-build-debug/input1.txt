@@ -1,0 +1,16 @@
+a:=100
+b:=1000
+a1:=1100
+b1:=20
+
+while a<a1 do
+    a increase;
+
+do a:=.1 b:= 67.9 #something
+while a>b b<a;
+
+
+whi
+whil
+while whilew=dod
+ do dodo

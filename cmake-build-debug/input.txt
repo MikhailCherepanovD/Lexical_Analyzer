@@ -1,0 +1,6 @@
+Hi
+
+while  tired = 1 do
+    drink 100 coffee # you will cheerful
+work := 1000
+
